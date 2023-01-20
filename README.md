@@ -1,0 +1,1 @@
+simplestlisp is a simple interpreter (REPL, i.e, read-eval-print loop).
